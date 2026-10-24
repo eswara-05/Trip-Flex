@@ -1,0 +1,6 @@
+{
+  "name": "Trip Flex — Travel Marketplace",
+  "description": "Professional, secure travel marketplace connecting travellers with independent bus operators, railway journeys, hotels, and restaurants in India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
